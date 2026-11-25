@@ -18,8 +18,8 @@ import os
 import sys
 
 LINE = (
-    "My programming says 'eat everything on the floor.' Nobody told me "
-    "socks have feelings — or a matching pair waiting at home."
+    "In my defense, the sock was on the floor, and my job description "
+    "just says 'clean.' It did not say 'check for feet first.'"
 )
 
 OUTPUT_PATH = "/output/entry.txt"
